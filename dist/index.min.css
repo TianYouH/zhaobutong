@@ -1,0 +1,1 @@
+body,html{height:100%}*{box-sizing:border-box}body{margin:0;overflow:hidden;background-color:#666;display:flex;justify-content:center;align-items:center}main{min-width:900px;width:900px;height:565px;cursor:pointer;position:relative}main img{width:100%;position:absolute;left:0;top:0}@keyframes s{0%,100%{transform:scale(1)}50%{transform:scale(1.2)}80%{transform:scale(.8)}}
